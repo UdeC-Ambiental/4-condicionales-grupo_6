@@ -1,0 +1,11 @@
+﻿sitio,pH,oxígeno (mg/L),temperatura (°C)_x,temperatura (°C)_y,categoria_temp,riesgo_termico
+Río Subachoque,7.2,7.8,18.5,18.5,Fría (<20°C),False
+Quebrada Honda (Facatativá),6.3,6.2,19.4,19.4,Fría (<20°C),False
+Río Botello (Madrid),6.8,5.9,22.7,22.7,Moderada (20–24.9°C),False
+Afluente San José (El Rosal),7.9,8.3,20.1,20.1,Moderada (20–24.9°C),False
+Río Villeta,8.7,6.1,28.3,28.3,Alta (≥25°C),True
+Quebrada Cune (San Francisco),6.0,4.5,25.2,25.2,Alta (≥25°C),True
+Río Tobia (Nocaima),7.4,5.2,26.9,26.9,Alta (≥25°C),True
+Quebrada Negra (La Vega),7.6,7.0,24.4,24.4,Moderada (20–24.9°C),False
+Río Bahamón (Sasaima),8.1,6.7,27.6,27.6,Alta (≥25°C),True
+Río Guayuriba (La Mesa),5.9,4.8,30.5,30.5,Alta (≥25°C),True
